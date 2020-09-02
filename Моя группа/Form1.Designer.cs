@@ -126,7 +126,7 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(16, 16);
+            this.txtName.Location = new System.Drawing.Point(16, 13);
             this.txtName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(265, 22);
@@ -134,7 +134,7 @@
             // 
             // txtFam
             // 
-            this.txtFam.Location = new System.Drawing.Point(16, 48);
+            this.txtFam.Location = new System.Drawing.Point(16, 45);
             this.txtFam.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtFam.Name = "txtFam";
             this.txtFam.Size = new System.Drawing.Size(265, 22);
@@ -142,7 +142,7 @@
             // 
             // txtOtch
             // 
-            this.txtOtch.Location = new System.Drawing.Point(16, 80);
+            this.txtOtch.Location = new System.Drawing.Point(16, 75);
             this.txtOtch.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtOtch.Name = "txtOtch";
             this.txtOtch.Size = new System.Drawing.Size(265, 22);
@@ -150,7 +150,7 @@
             // 
             // txtAdr
             // 
-            this.txtAdr.Location = new System.Drawing.Point(16, 112);
+            this.txtAdr.Location = new System.Drawing.Point(423, 13);
             this.txtAdr.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtAdr.Name = "txtAdr";
             this.txtAdr.Size = new System.Drawing.Size(265, 22);
@@ -158,7 +158,7 @@
             // 
             // txtNum
             // 
-            this.txtNum.Location = new System.Drawing.Point(16, 144);
+            this.txtNum.Location = new System.Drawing.Point(423, 45);
             this.txtNum.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNum.Name = "txtNum";
             this.txtNum.Size = new System.Drawing.Size(265, 22);
@@ -167,7 +167,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(292, 16);
+            this.label1.Location = new System.Drawing.Point(292, 13);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 17);
@@ -177,7 +177,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(292, 48);
+            this.label2.Location = new System.Drawing.Point(292, 45);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(70, 17);
@@ -187,7 +187,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(292, 80);
+            this.label3.Location = new System.Drawing.Point(292, 75);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(71, 17);
@@ -197,7 +197,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(292, 112);
+            this.label4.Location = new System.Drawing.Point(699, 13);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(48, 17);
@@ -207,7 +207,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(292, 144);
+            this.label5.Location = new System.Drawing.Point(699, 45);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(51, 17);
